@@ -31,7 +31,7 @@ These notebooks are an independent learning resource. They are not affiliated wi
 
 The notebooks and code are licensed under the [MIT License](LICENSE).
 
-We are not accepting pull requests yet. Help: <https://smashtutor.com/help/>
+We are not accepting pull requests yet. Questions and suggestions: <https://smashtutor.com/help/>
 
 **Work through the full courses with answer checking — free, in your own ChatGPT: <https://smashtutor.com/?utm_source=github&utm_medium=readme>**
 
